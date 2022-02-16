@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+/* font-family: 'Nova Square', cursive; */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+/* font-family: 'Montserrat', sans-serif; */
+.main {
+    display: grid;
+    grid-template-columns: 8% auto 16%;
+}
+
+.main h1 {
+    grid-column: 1 / span 3;
+    font-family: "Nova Square", cursive;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 50px;
+    padding: 40px 0 20px 0;
+}
+
+.sidebar-container {
+    position: relative;
+}
+
+.sidebar-container div {
+    position: sticky;
+    top: 300px;
+    padding: 20px;
+    margin-top: 300px;
+}
+
+.sidebar-container div a {
+    text-decoration: none;
+    color: whitesmoke;
+    display: list-item;
+    margin-bottom: 20px;
+}
+
+.sidebar-container div a:hover {
+    color: crimson;
+}
+
+.crew-container {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.crew-container div {
+    margin-top: 300px;
+    top: 250px;
+    position: sticky;
+}
+
+.crew-container h2 {
+    padding: 20px 0;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.crew-container p {
+    margin-bottom: 15px;
+}
+
+.profile-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.profile-container h2 {
+    grid-column: 1 / span 3;
+    font-family: "Nova Square", cursive;
+    letter-spacing: 1px;
+    padding: 30px 0;
+}

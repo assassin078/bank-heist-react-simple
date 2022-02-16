@@ -1,0 +1,25 @@
+.build-crew-btn {
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    margin: 10px auto;
+    width: 150px;
+    font-size: 16px;
+    padding: 5px 10px;
+    outline: 0;
+    border: 3px solid;
+    border-radius: 5px;
+    border-color: whitesmoke;
+    background: transparent;
+    color: whitesmoke;
+}
+
+
+.build-crew-btn:active {
+    background: snow;
+    border-color: crimson;
+}
+
+.build-crew-btn:hover {
+    background: #cecece;
+    color: black;
+}

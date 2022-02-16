@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+.profile-card {
+    width: 300px;
+    margin: 20px auto;
+    background: #777777;
+    padding: 10px;
+    font-family: "Nova Square", cursive;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 50px;
+    display: block;
+}
+
+.profile-card label {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    background: #011627;
+    color: snow;
+    padding: 3px 8px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.profile-card h3 {
+    color: black;
+    font-size: 22px;
+}
+
+.profile-card td{
+    font-size: 18px;
+    color: black;
+}
+
+.character-profile {
+    display: flex;
+}
+
+.character-info {
+    width: 60%;
+}
+
+.character-img {
+    filter: grayscale(1);
+    width: 40%;
+    border-radius: 5px;
+}
+
+.character-skills {
+    /* padding: 10px; */
+}
+
+table {
+    display: block;
+    width: 100%;
+    padding: 0px 10px;
+}
+
+table tr {
+    display: grid;
+    grid-template-columns: 1.8fr 1fr;
+}
+
+.hire-btn {
+    font-family: "Nova Square", cursive;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border: 3px solid;
+    border-radius: 3px;
+    border-color: transparent black black transparent;
+    display: block;
+    margin: 5px auto 0 auto;
+    width: 80%;
+}
+
+.hire-btn:active {
+    border-color: black transparent transparent black;
+}
+
+meter::-webkit-meter-bar {
+    background: black;
+}
+
+meter::-webkit-meter-optimum-value {
+    background: #c9184a;
+}

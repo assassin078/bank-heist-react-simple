@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+/* font-family: 'Montserrat', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+/* font-family: 'Poppins', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+/* font-family: 'Nova Square', cursive; */
+
+.header {
+    background-image: url("../../../public/Images/cover-img/bg-img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    color: whitesmoke;
+    position: relative;
+}
+
+.header h1 {
+    font-family: "Nova Square", cursive;
+    letter-spacing: 2px;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.header h2 {
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 1px;
+}
+
+.header p,
+label {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    width: 500px;
+    position: absolute;
+    top: 75px;
+    left: 150px;
+}
+
+.score {
+    font-family: 'Montserrat', sans-serif;
+    width: 200px;
+    font-size: 20px;
+    padding: 0px 10px;
+    outline: 0;
+    border: 3px solid transparent;
+    border-radius: 5px;
+}
+.score:focus {
+    border: 3px solid crimson;
+}
+
+.score-btn {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10px;
+    width: 150px;
+    font-size: 20px;
+    padding: 0px 10px;
+    outline: 0;
+    border: 3px solid;
+    border-radius: 5px;
+    border-color: whitesmoke;
+    background: transparent;
+    color: whitesmoke;
+}
+
+.score-btn:active {
+    background: snow;
+    border-color: crimson;
+}
+
+.score-btn:hover {
+    background: #cecece;
+    color: black;
+}
+
+.header span {
+    display: block;
+    margin-top: 10px;
+    margin-left: 105px;
+    color: crimson;
+}

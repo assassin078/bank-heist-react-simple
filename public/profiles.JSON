@@ -1,0 +1,239 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "firstName": "Izeddine",
+            "lastName": "Elgarmi"
+        },
+        "expertise": "Gunman",
+        "logo": "./Images/logos/gunman.png",
+        "img": "./Images/profiles/gunman1.png",
+        "skills": [
+            {
+                "description": "Max Health",
+                "value": 69
+            },
+            {
+                "description": "Accuracy",
+                "value": 89
+            },
+            {
+                "description": "Shoot Rate",
+                "value": 72
+            },
+            {
+                "description": "Weapon Choice",
+                "value": 71
+            }
+        ],
+        "cut": 16
+    },
+    {
+        "id": 2,
+        "name": {
+            "firstName": "Michael",
+            "lastName": "Taylor"
+        },
+        "expertise": "Gunman",
+        "logo": "./Images/logos/gunman.png",
+        "img": "./Images/profiles/gunman2.png",
+        "skills": [
+            {
+                "description": "Max Health",
+                "value": 75
+            },
+            {
+                "description": "Accuracy",
+                "value": 70
+            },
+            {
+                "description": "Shoot Rate",
+                "value": 72
+            },
+            {
+                "description": "Weapon Choice",
+                "value": 82
+            }
+        ],
+        "cut": 17
+    },
+    {
+        "id": 3,
+        "name": {
+            "firstName": "Eddie",
+            "lastName": "Toh"
+        },
+        "expertise": "Gunman",
+        "logo": "./Images/logos/gunman.png",
+        "img": "./Images/profiles/gunman3.png",
+        "skills": [
+            {
+                "description": "Max Health",
+                "value": 86
+            },
+            {
+                "description": "Accuracy",
+                "value": 60
+            },
+            {
+                "description": "Shoot Rate",
+                "value": 90
+            },
+            {
+                "description": "Weapon Choice",
+                "value": 82
+            }
+        ],
+        "cut": 18
+    },
+    {
+        "id": 4,
+        "name": {
+            "firstName": "Hamza ",
+            "lastName": "Bendelladj"
+        },
+        "expertise": "Hacker",
+        "logo": "./Images/logos/hacker.png",
+        "img": "./Images/profiles/hacker1.png",
+        "skills": [
+            {
+                "description": "Sys Knowledge",
+                "value": 75
+            },
+            {
+                "description": "Decryption Skill",
+                "value": 81
+            },
+            {
+                "description": "Access Speed",
+                "value": 77
+            }
+        ],
+        "cut": 15
+    },
+    {
+        "id": 5,
+        "name": {
+            "firstName": "David",
+            "lastName": "Pokora"
+        },
+        "expertise": "Hacker",
+        "logo": "./Images/logos/hacker.png",
+        "img": "./Images/profiles/hacker2.png",
+        "skills": [
+            {
+                "description": "Sys Knowledge",
+                "value": 75
+            },
+            {
+                "description": "Decryption Skill",
+                "value": 81
+            },
+            {
+                "description": "Access Speed",
+                "value": 67
+            }
+        ],
+        "cut": 17
+    },
+    {
+        "id": 6,
+        "name": {
+            "firstName": "Jin",
+            "lastName": "Hyok"
+        },
+        "expertise": "Hacker",
+        "logo": "./Images/logos/hacker.png",
+        "img": "./Images/profiles/hacker3.png",
+        "skills": [
+            {
+                "description": "Sys Knowledge",
+                "value": 81
+            },
+            {
+                "description": "Decryption Skill",
+                "value": 77
+            },
+            {
+                "description": "Access Speed",
+                "value": 72
+            }
+        ],
+        "cut": 19
+    },
+    {
+        "id": 7,
+        "name": {
+            "firstName": "Kevontae",
+            "lastName": "Ruggs"
+        },
+        "expertise": "Getaway-Driver",
+        "logo": "./Images/logos/driver.png",
+        "img": "./Images/profiles/driver1.png",
+        "skills": [
+            {
+                "description": "Driving Skills",
+                "value": 77
+            },
+            {
+                "description": "Composure",
+                "value": 81
+            },
+            {
+                "description": "Vehicle Choice",
+                "value": 67
+            }
+        ],
+        "cut": 16
+    },
+    {
+        "id": 8,
+        "name": {
+            "firstName": "Aymen",
+            "lastName": "Asker"
+        },
+        "expertise": "Getaway-Driver",
+        "logo": "./Images/logos/driver.png",
+        "img": "./Images/profiles/driver2.png",
+        "skills": [
+            {
+                "description": "Driving Skills",
+                "value": 83
+            },
+            {
+                "description": "Composure",
+                "value": 67
+            },
+            {
+                "description": "Vehicle Choice",
+                "value": 72
+            }
+        ],
+        "cut": 17
+    },
+    {
+        "id": 9,
+        "name": {
+            "firstName": "Kodi",
+            "lastName": "Ned"
+        },
+        "expertise": "Getaway-Driver",
+        "logo": "./Images/logos/driver.png",
+        "img": "./Images/profiles/driver3.png",
+        "skills": [
+            {
+                "description": "Driving Skills",
+                "value": 69
+            },
+            {
+                "description": "Composure",
+                "value": 71
+            },
+            {
+                "description": "Vehicle Choice",
+                "value": 73
+            }
+        ],
+        "cut": 14
+    }
+]

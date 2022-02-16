@@ -1,0 +1,12 @@
+import React from 'react';
+import './component.css';
+
+const Component = (props) => {
+    return ( 
+        <div>
+
+        </div>
+    )
+}
+
+export default Component; 
