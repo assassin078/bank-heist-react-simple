@@ -1,6 +1,6 @@
 # [Bang-Heist-React-Simple](https://bank-heist-react-simple.netlify.app/)
 
-## `Restricted Access !` Authorized Personnel Only : : 
+## `Restricted Access !` Authorized Personnel Only :skull: 
 
 Hire Elite Crew Members 
 
