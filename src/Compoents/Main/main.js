@@ -79,7 +79,7 @@ const Main = (props) => {
 
             {/* Cart Section */}
             <div className="crew-container">
-                <Crew crew={crew} budget={budget} />
+                <Crew crew={crew} budget={budget} setCrew={setCrew}/>
             </div>
         </div>
     );
